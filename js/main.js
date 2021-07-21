@@ -41,3 +41,13 @@
 // }
 // console.log(somma);
 
+//SNACK 4
+//Crea due array che hanno un numero di elementi diversi. Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
+
+// var box_1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// var box_2 = [1, 2, 3, 4, 5, 6];
+
+// for (var i = box_2.length; i < box_1.length; i++) {
+//     box_2.push(i);
+// }
+// console.log(box_1, box_2);
